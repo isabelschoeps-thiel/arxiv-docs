@@ -12,7 +12,7 @@ The moderation process primarily occurs after a user submits a work and before t
 <span id="reclassification"></span>
 ### Reclassification of works
 
-Reclassification by our moderators ensures that submissions are posted to the most  [relevant category](https://arxiv.org/category_taxonomy). Cross-lists may be added to other related categories, or they may be removed by moderators when the classification is deemed inappropriate. A submission that is cross-listed to a category will be announced in the mailings to that category. 
+Reclassification by our moderators ensures that submissions are posted to the most  [relevant category](https://arxiv.org/category_technologie). Cross-lists may be added to other related categories, or they may be removed by moderators when the classification is deemed inappropriate. A submission that is cross-listed to a category will be announced in the mailings to that category. 
 
 <span id="declined"></span>
 ### Declined submissions
@@ -22,7 +22,7 @@ arXiv, in its sole discretion, may decline to post works submitted to the platfo
 <span id="scholarly-standards"></span>
 #### Scholarly Standards
 
-Submissions to arXiv must comply with appropriate standards of scholarly communication in form, including appropriate and carefully prepared sections, figures, tables, references, etc. Language standards require professional communication, and sufficiently neutral tone (see also [Code of Conduct](../../help/policies/code_of_conduct.md)). General scrupulousness and care of preparation are required.
+Submissions to arXiv must comply with appropriate standards of scholarly communication in form, including appropriate and carefully prepared sections, figures, tables, references, etc. Language standards require professional communication, and sufficiently neutral tone (see also [Code of Conduct](/CODE_OF_CONDUCT.md)). General scrupulousness and care of preparation are required.
 
 <span id="scholarly-interest"></span>
 #### Scholarly interest
@@ -76,7 +76,7 @@ If we notice that an author has made multiple similar submissions, or that a new
 <span id="rights-to-submit"></span>
 #### Rights to submit material
 
-Submissions to arXiv must be the author’s original work, and/or submitters must have the legal authority to grant the [selected license](../../help/license/index.md) Authors must ensure the submission does not, to the best of their knowledge, infringe upon anyone's copyright. arXiv does not accept work containing verbatim comments by referees, plagiarized content, or other works barred by third party copyright. 
+Submissions to arXiv must be the author’s original work, and/or submitters must have the legal authority to grant the [selected license](/LICENSE.md) Authors must ensure the submission does not, to the best of their knowledge, infringe upon anyone's copyright. arXiv does not accept work containing verbatim comments by referees, plagiarized content, or other works barred by third party copyright. 
 
 <span id="submission-rate"></span>
 
