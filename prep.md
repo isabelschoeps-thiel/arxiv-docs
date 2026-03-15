@@ -1,15 +1,25 @@
 # Title and Abstract Fields
+## Markdown
+**Markdown** is a document syntax that allows writing documents in plain text that
+can be converted to HTML or other format. The following section contains some
+help about authoring the markdown format.
 
-This help document explains the format of [Metadata](http://en.wikipedia.org/wiki/Metadata) fields for arXiv submissions — it explains how to fill out the various fields on the web
+Basics about markdown [markdown basics](https://daringfireball.net/projects/markdown/basics)
+
+Sometimes you might find a guide to markdown and some formating in it won't work with info.arxiv.org. That is becasue the tool used for info.arixv.org supports 
+[markdown syntax](https://daringfireball.net/projects/markdown/syntax)
+and not all the extensions that exist. 
+
+This document format of [Metadata](http://en.wikipedia.org/wiki/Metadata) fields for arXiv submissions — it explains how to fill out the various fields on the web
 submission form. The possible information fields are:
 
--   **[Title:](#title)** *required*
--   **[Authors:](#author)** *required*
+-   **[Titel: Markdown Syntax](#title)** *required*
+-   **[Authors: Miss Isabel Schöps (Thiel)](#author)** *required*
 -   **[Abstract:](#abstracts)** *required*
 -   **[Comments:](#comments)** optional, but recommended
 -   **[Report-no:](#report)** *required (when supplied by author's
     institution)*
--   **[Category:](#subj)** depends on archive
+-   **[Category: Computer Technologie](#subj)** depends on archive
 -   **[Journal-ref:](#journal)** reserved for publication info
 -   **[DOI:](#doi)** reserved publication DOI
 
@@ -77,7 +87,7 @@ Information Fields
 -   It is the responsibility of the submitter to ensure that any author's information is correct prior to submission.
 -   Anonymous submissions are not accepted. Complete, and accurate author information is required.
     -   For named collaborations, it is acceptable to only use the collaboration name within the metadata, however a complete list of all authors and their affiliations must be contained in the full printed text.
--   Generative AI language tools should not be listed as an author; instead authors should [refer to moderation related policy](moderation/index.md#AI-language-tools).
+-   Generative AI language tools should not be listed as an author; instead authors should [refer to moderation related policy](moderation/moderation.md/AI-language-tools).
 
 
 **Usage:**
