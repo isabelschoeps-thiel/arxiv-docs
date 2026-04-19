@@ -1,6 +1,6 @@
 ## Code of Conduct Contact
 
-Is the global rule, w or concerns regarding the GitHub Code of Conduct please contact:
+Is the global rule, w or concerns regarding the [GitHubs Code of Conduct](https://www.scribd.com/document/1018746758/GitHub-Code-of-Conduct-by-Isabel-Schops-Thiel) please contact:
 
 - [Isabel Schöps (Thiel)](mailto:harvard.isabelschoepsthiel@gmail.com), GitHub Founder, Researcher,
 - or Director of Communications University of Cambridge UK, [Mr Prof. Richard Westcott](https://cuhp.org.uk/who-we-are/our-people/richard-westcott/),
