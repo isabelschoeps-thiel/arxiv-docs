@@ -1,0 +1,7 @@
+13-Nov-23 06:01:54 INFO     Start cloth cover detector module version 1.2!
+13-Nov-23 06:01:54 INFO     sourceFile(scandata) : '/item/isabellacatolica491rodr_scandata.xml' -> targetFile(log-file) '/item/isabellacatolica491rodr_cloth_detection.log'
+13-Nov-23 06:01:54 INFO     The 'jp2' archive was found! Path to file: '/item/isabellacatolica491rodr_jp2.zip'
+13-Nov-23 06:01:55 INFO     Analysis of cover page with leafNum 1: 'is cloth' - False, 'edge level' - 20.36063379460461
+13-Nov-23 06:01:56 INFO     Analysis of cover page with leafNum 124: 'is cloth' - True, 'edge level' - 0.9557958323182432
+13-Nov-23 06:01:56 INFO     Save new scandata with tag 'clothCover' in /item/isabellacatolica491rodr_scandata.xml
+13-Nov-23 06:01:56 INFO     Successful finish cloth-cover detector !

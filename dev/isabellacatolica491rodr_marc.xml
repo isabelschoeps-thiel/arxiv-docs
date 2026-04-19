@@ -1,0 +1,55 @@
+<record xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>00771cam a2200205Ia 4500</leader>
+  <controlfield tag="001">ocm13059384</controlfield>
+  <controlfield tag="005">19860124000000.0</controlfield>
+  <controlfield tag="008">860124s1860    sp            000 0 spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">NOC</subfield>
+    <subfield code="c">NOC</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Rodríguez y Díaz Rubí, Tomás,</subfield>
+    <subfield code="d">1817-1890.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Isabel la Católica :</subfield>
+    <subfield code="b">drama histórico en tres partes y seis jornadas /</subfield>
+    <subfield code="c">de Tomás Rodríguez Rubí.</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">5a ed.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Madrid :</subfield>
+    <subfield code="b">Impr. de C. González,</subfield>
+    <subfield code="c">1860.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">120 p. ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">No. 8, in vol. 491 with binder&apos;s title: Teatro Español : serie A.</subfield>
+  </datafield>
+  <datafield tag="600" ind1="0" ind2="0">
+    <subfield code="a">Isabella</subfield>
+    <subfield code="b">I,</subfield>
+    <subfield code="c">Queen of Spain,</subfield>
+    <subfield code="d">1451-1504</subfield>
+    <subfield code="v">Drama.</subfield>
+  </datafield>
+  <datafield tag="690" ind1=" " ind2="7">
+    <subfield code="a">Spanish, Portuguese, and Catalan drama.</subfield>
+    <subfield code="2">local.</subfield>
+  </datafield>
+  <datafield tag="935" ind1=" " ind2=" ">
+    <subfield code="a">AEG-2372</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b20885246</subfield>
+  </datafield>
+  <datafield tag="915" ind1=" " ind2=" ">
+    <subfield code="9">Baseline 09_2013</subfield>
+    <subfield code="9">Under Authority Control</subfield>
+  </datafield>
+</record>

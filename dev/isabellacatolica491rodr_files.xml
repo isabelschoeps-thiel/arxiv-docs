@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1765613742</mtime>
+    <size>12108</size>
+    <md5>3886d9fa5f39f7d36b654bacee534700</md5>
+    <crc32>eb5d8a87</crc32>
+    <sha1>4d89584576f0c5863e86f858af293193559c5d3f</sha1>
+    <format>JPEG Thumb</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="isabellacatolica491rodr.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>isabellacatolica491rodr_djvu.xml</original>
+    <mtime>1414706646</mtime>
+    <size>4790687</size>
+    <md5>e6eaf68ca1658c96040cb7b06438cd4b</md5>
+    <crc32>287bb5c8</crc32>
+    <sha1>38cfd2bd61f00792f6959a8c65dea8320e65880d</sha1>
+  </file>
+  <file name="isabellacatolica491rodr.epub" source="derivative">
+    <hocr_epub_module_version>0.0.1</hocr_epub_module_version>
+    <hocr_epub_hocr_version>1.1.66</hocr_epub_hocr_version>
+    <format>EPUB</format>
+    <original>isabellacatolica491rodr_hocr.html</original>
+    <mtime>1765613715</mtime>
+    <size>779814</size>
+    <md5>8f3ee2554ec463bcc5fc1aed5bd2b10a</md5>
+    <crc32>bda70890</crc32>
+    <sha1>ef4f6a12a4563f9bf8c55d0d5ed6318c4bf19c73</sha1>
+  </file>
+  <file name="isabellacatolica491rodr.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>isabellacatolica491rodr_jp2.zip</original>
+    <mtime>1414705199</mtime>
+    <size>304585</size>
+    <md5>bd0ba6885db48d6e0af706b2f30866d7</md5>
+    <crc32>e6fd7ee7</crc32>
+    <sha1>78d3563d8262a64a7ec45a273dbe0a695bbad06e</sha1>
+  </file>
+  <file name="isabellacatolica491rodr.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>isabellacatolica491rodr_page_numbers.json</original>
+    <mtime>1699855204</mtime>
+    <size>6422557</size>
+    <md5>4449d596e55f89bbee41fccc77ea39b1</md5>
+    <crc32>fb85eed6</crc32>
+    <sha1>26400d682221030a13aee00da6152da28ed6ed44</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>isabellacatolica491rodr_jp2.zip</original>
+    <mtime>1414706027</mtime>
+    <size>2008454</size>
+    <md5>d8d4668ccfd4a9d7a97b2aa5f2f9ee76</md5>
+    <crc32>0bb0f0a1</crc32>
+    <sha1>e77dd8ef0a0a36fcbb32db3c3e6e3698d8fa1998</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_archive.torrent" source="metadata">
+    <btih>5d897b6635a412d00d9c7a62102cdf2e0a0aa0c4</btih>
+    <mtime>1765613754</mtime>
+    <size>9454</size>
+    <md5>1305cbb7013d3c03f03b582c1572dffa</md5>
+    <crc32>0096b219</crc32>
+    <sha1>8cd14322a2f680adff4998834608286b520760d8</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="isabellacatolica491rodr_chocr.html.gz" source="derivative">
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_converted>abbyy-to-hocr 1.1.37</ocr_converted>
+    <format>chOCR</format>
+    <original>isabellacatolica491rodr_abbyy.gz</original>
+    <mtime>1699855098</mtime>
+    <size>1740144</size>
+    <md5>f7990e3157052a549d9be8958b828d24</md5>
+    <crc32>d63bd8c3</crc32>
+    <sha1>808a3b7e3680346f6e8d725c52862379561d4fe7</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_cloth_detection.log" source="derivative">
+    <cloth_cover_detection_module_version>1.2</cloth_cover_detection_module_version>
+    <format>Cloth Cover Detection Log</format>
+    <original>isabellacatolica491rodr_scandata.xml</original>
+    <mtime>1699855316</mtime>
+    <size>783</size>
+    <md5>79b52534f9fdb91f369d4af720a0a9e7</md5>
+    <crc32>2599b2c5</crc32>
+    <sha1>89b4f926e58fcaad066c965e241fd33399e8db0b</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_dc.xml" source="original">
+    <format>Dublin Core</format>
+    <mtime>1649046375</mtime>
+    <size>742</size>
+    <md5>e203d1c2c12b0319848b14788c24d44b</md5>
+    <crc32>4bd8b57d</crc32>
+    <sha1>dc1b56f7b285b98791efe1a07ddb0ebaa9b37480</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>isabellacatolica491rodr_djvu.xml</original>
+    <mtime>1699855183</mtime>
+    <size>153098</size>
+    <md5>d755d2a8e5131d38acee0bbedca650e4</md5>
+    <crc32>25d1ca5b</crc32>
+    <sha1>e07a9c7e016003fd40158555273931acb3f004ba</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>isabellacatolica491rodr_hocr.html</original>
+    <mtime>1699855128</mtime>
+    <size>1917645</size>
+    <md5>1252fee3221fba88e722379e2c659b58</md5>
+    <crc32>f05e1b77</crc32>
+    <sha1>a8bb44f4e3eca77a4e3c45e8826a59ff8441213c</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4f0fbbbb6ef71bb746d66edd23d7d0f6</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="isabellacatolica491rodr_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.2.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.45</hocr_char_to_word_hocr_version>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_converted>abbyy-to-hocr 1.1.37</ocr_converted>
+    <format>hOCR</format>
+    <original>isabellacatolica491rodr_chocr.html.gz</original>
+    <mtime>1699855117</mtime>
+    <size>3668257</size>
+    <md5>32b2ef4bd06a6c602b81d058a511449c</md5>
+    <crc32>ab99739b</crc32>
+    <sha1>c904bd50ccfa3dad653213165aa87295bf44a787</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.15</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>isabellacatolica491rodr_hocr.html</original>
+    <mtime>1699855135</mtime>
+    <size>1422</size>
+    <md5>e8837a9527b56959bda01fc715378c40</md5>
+    <crc32>2a960ac8</crc32>
+    <sha1>89fd0e78e937e61b6659c793ecfef9ad951200c8</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.15</hocr_fts_text_hocr_version>
+    <word_conf_0_10>3196</word_conf_0_10>
+    <word_conf_11_20>3447</word_conf_11_20>
+    <word_conf_21_30>3865</word_conf_21_30>
+    <word_conf_31_40>3958</word_conf_31_40>
+    <word_conf_41_50>3334</word_conf_41_50>
+    <word_conf_51_60>2093</word_conf_51_60>
+    <word_conf_61_70>1224</word_conf_61_70>
+    <word_conf_71_80>542</word_conf_71_80>
+    <word_conf_81_90>280</word_conf_81_90>
+    <word_conf_91_100>801</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>isabellacatolica491rodr_hocr.html</original>
+    <mtime>1699855150</mtime>
+    <size>56646</size>
+    <md5>3a58c48d4486ffbc689c4bd4bf644a6a</md5>
+    <crc32>c8713570</crc32>
+    <sha1>9e69e3e1028843e15f956fe4a95ce0d628477cd5</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>isabellacatolica491rodr_orig_jp2.tar</original>
+    <mtime>1414705100</mtime>
+    <size>86106239</size>
+    <md5>89f224578b3430703c60915b759758cd</md5>
+    <crc32>14faa4d8</crc32>
+    <sha1>7267a905acdba8128ee0e1bdce5dcc9124deee57</sha1>
+    <filecount>126</filecount>
+  </file>
+  <file name="isabellacatolica491rodr_marc.xml" source="original">
+    <format>MARC</format>
+    <mtime>1413993628</mtime>
+    <size>2279</size>
+    <md5>37339155e96aec58ea101e61a66f5845</md5>
+    <crc32>e4b33512</crc32>
+    <sha1>66b7ea7bc7d49b30eb59c94e6871cec4a2bbde7a</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_meta.mrc" source="original">
+    <format>MARC Binary</format>
+    <mtime>1413993628</mtime>
+    <size>782</size>
+    <md5>3a36b255b34804b47f43b6578ff1b1a9</md5>
+    <crc32>bd3ad42d</crc32>
+    <sha1>4f2d342e0a2df2894a0f002bee881f48adccec8d</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_meta.sqlite" source="original">
+    <mtime>1467655815</mtime>
+    <size>6144</size>
+    <format>Metadata</format>
+    <md5>deef2cd854a0fa6088c9e794c1515c8e</md5>
+    <crc32>154b23c0</crc32>
+    <sha1>9a88bc4b9b76b11c3b7c4ab1c920189cfd9f1074</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1765613752</mtime>
+    <size>2685</size>
+    <md5>ddb85a71732122dcd93da33c3627d746</md5>
+    <crc32>1872a0b1</crc32>
+    <sha1>1a248a32ba52931d46313be397f26eebfbcda875</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_metasource.xml" source="original">
+    <format>MARC Source</format>
+    <mtime>1413993628</mtime>
+    <size>312</size>
+    <md5>891132e4b8bc431fcf40089c695f7855</md5>
+    <crc32>870ff47f</crc32>
+    <sha1>2822268d1ea4d125eeb570f2997d1a27a53592b4</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_orig_jp2.tar" source="original">
+    <mtime>1414702494</mtime>
+    <size>137953280</size>
+    <md5>867c774f51863a29f6535dc0f91fe239</md5>
+    <crc32>e86a537b</crc32>
+    <sha1>78917e0efa5f28043f8d2848026f8f77e56d15cf</sha1>
+    <format>Single Page Original JP2 Tar</format>
+    <filecount>126</filecount>
+  </file>
+  <file name="isabellacatolica491rodr_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.3</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>76</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>isabellacatolica491rodr_hocr.html</original>
+    <mtime>1699855170</mtime>
+    <size>20901</size>
+    <md5>afd35661b65eab2344c7bc6e7966e507</md5>
+    <crc32>522f20fa</crc32>
+    <sha1>058cf2d08784f70a5e3acf9e9f7195e8ac469b9b</sha1>
+  </file>
+  <file name="isabellacatolica491rodr_scandata.xml" source="original">
+    <mtime>1699855316</mtime>
+    <size>165481</size>
+    <md5>e4414922e466a5fe6cf44f7ebb28c090</md5>
+    <crc32>42e21e6a</crc32>
+    <sha1>a22caf912883969108f828dfec0079a69e0bbeb4</sha1>
+    <format>Scandata</format>
+  </file>
+</files>
