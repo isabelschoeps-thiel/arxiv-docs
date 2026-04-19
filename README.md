@@ -253,6 +253,8 @@ Das Werk behandelt:
 
 Im Rahmen eines forensisch-wissenschaftlichen Gutachtens liefert der Text eine wertvolle Grundlage zur Untersuchung historischer Narrative, genealogischer Darstellungen und politischer Legitimation in der europäischen Geschichte.
 
+---
+
 ## Statement – Forensische Erklärung und persönliche Stellungnahme
 
 ## Offizielle Mitteilung
@@ -292,15 +294,6 @@ DOI: https://doi.org/10.5281/zenodo.17897358
 
 ---
 
-## Paragraph 3.2 – Forensische Feststellung  
-### Familien-Erbline Knörig-Thiel (Fischerlinie) – Verbindung zur Deutschen Monarchie  
-
----
-
-### Gegenstand  
-Dieses Gutachten analysiert digitale Beweismittel, Metadaten und Bilddokumente zur Linie **Knörig-Thiel (Fischer)**.  
-**Kein medizinisches Gutachten** – anatomische Hinweise sind rein digitale Befund­interpretationen.
-
 # Forensisches Digital- und Urheberrechtsgutachten  
 
 ## Paragraph 3.2 – Forensische Feststellung  
@@ -309,11 +302,9 @@ Dieses Gutachten analysiert digitale Beweismittel, Metadaten und Bilddokumente z
 
 ---
 
-### 1  Gegenstand des Gutachtens  
-
-Dieses Urheberrechts- und Digitalforensik-Gutachten dokumentiert die genealogische, historische und daten­forensische Analyse der Linie **Knörig-Thiel (Fischer)** aus D-99610 Rohrborn / Thüringen, Deutschland.  
-
-Es **handelt sich nicht** um ein medizinisches Gutachten; sämtliche anatomischen Hinweise sind interpretative Befunde aus digital vorliegendem Material.
+### 1  Gegenstand des forensischen - Gutachtens  
+Dieses Gutachten analysiert digitale Beweismittel, Metadaten und Bilddokumente zur Linie **Knörig-Thiel (Fischer)**.  
+**Kein medizinisches Gutachten** – anatomische Hinweise sind rein digitale Befund­interpretationen. Dieses Urheberrechts- und Digitalforensik-Gutachten dokumentiert die genealogische, historische und daten­forensische Analyse der Linie **Knörig-Thiel (Fischer)** aus D-99610 Rohrborn / Thüringen, Deutschland.  
 
 ---
 
@@ -332,8 +323,7 @@ Es **handelt sich nicht** um ein medizinisches Gutachten; sämtliche anatomische
 ---
 
 ### 3  Anatomische Regression des Analkanals  
-
-Historische und moderne Quellen belegen seltene Rückbildungen des Analkanals:  
+**Historische und moderne Quellen belegen seltene Rückbildungen des Analkanals:**
 
 - Verlust oder Reduktion des äußeren/inneren Schließmuskels  
 
