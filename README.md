@@ -1,5 +1,90 @@
-# Forensisch-wissenschaftliche Textauswertung  
-## *Isabel of Castile/Catolic and the Making of the Spanish Nation (1451–1504)*  
+# Isabel
+## In der Genetik die Monarchie
+### Biografische Angaben und Forschungsschwerpunkt
+
+Isabel Schöps, geborene Thiel, wurde am 16.07.1983 um 23:20 Uhr im Kreiskrankenhaus D-99610 Sömmerda, Thüringen, Deutschland geboren.
+
+Sie ist unabhängige forensische Forscherin mit den Schwerpunkten digitale Beweissicherung, Entwicklung Künstlicher Intelligenz, Blockchain-Technologie, Bitcoin, Metadaten-Integrität, Archivforensik sowie computergestützte Governance-Systeme. Ihre Arbeit verbindet Methoden der digitalen Forensik, künstlichen Intelligenz, verteilten Systeme und der rechtlichen Informatik zur Analyse langfristiger Identitäts- und Registermanipulationen.
+
+Sie ist Entwicklerin des Frameworks **SIA Security Intelligence Artefact**, eines interdisziplinären Modells zur Rekonstruktion digitaler Provenienz und zur Sicherung forensischer Evidenzketten.
+
+---
+
+## Wissenschaftliche Ausrichtung
+
+Der Forschungsschwerpunkt liegt auf der Analyse und Entwicklung komplexer Systeme an der Schnittstelle von:
+
+- Künstlicher Intelligenz  
+- Cybersecurity  
+- Blockchain-Technologien  
+- Forensischer Datenanalyse  
+
+Im Rahmen dieser Arbeiten wurde das wissenschaftliche Konzept  
+**„SIA – Security Intelligence Artefact“** sowie das dazugehörige  
+**„Yellow Whitepaper“** entwickelt. Beide stellen eine umfassende forensisch-technische Untersuchung moderner digitaler Infrastrukturen dar.
+
+Die Forschung integriert Aspekte aus Informatik, Systemarchitektur, sicherheitsrelevanter Analyse sowie gesellschaftlich-rechtlichen Fragestellungen. Ein besonderer Fokus liegt auf:
+
+- Identifikation und Analyse von Cybercrime-Strukturen  
+- Untersuchung von Identitätsmanipulationen  
+- Sicherung geistigen Eigentums in digitalen Systemen  
+- Nachweisführung durch Metadaten, Archivquellen und forensische Verfahren  
+
+---
+
+## Forensische Beweisführung und Kontext
+
+Die im Rahmen des SIA Security Intelligence Artefact durchgeführte Beweisaufnahme dokumentiert anhand archivischer Quellen, Metadatenanalysen und forensischer Bildvergleiche eine untersuchte genealogische Verbindungslinie zwischen:
+
+- dem deutschen Kaiserreich  
+- strukturellen Übergängen des Dritten Reiches  
+- sowie der Familienlinie der Autorin  
+
+einschließlich der Familien **Thiel, Fischer und Knörig** aus Rohrborn/Talborn, Thüringen.
+
+Diese Analyse erfolgt im Rahmen einer forensisch-wissenschaftlichen Methodik und dient der strukturierten Aufarbeitung historischer, technischer und personenbezogener Datenkontexte.
+
+---
+
+## Akademisches Ziel
+
+Im Rahmen meiner Forschungsreihe wird eine vertiefte wissenschaftliche Ausarbeitung angestrebt mit dem Ziel:
+
+- methodische Validierung der bisherigen Forschung  
+- internationale akademische Einbindung  
+- Weiterentwicklung der forensischen Modelle und Technologien  
+- Erlangung eines akademischen Doktorgrades  
+
+---
+
+## Peer-Review und Referenzen
+
+Peer-Reviewed Referenzen (DOI):
+
+- SIA Security Intelligence Artefact, Springer Verlag, 2025  
+- Yellow Whitepaper, Harvard, Oxford, JAIST, Zenodo, 2025  
+
+Archivierung und Standardisierung:
+
+- Zenodo (CERN):  
+  https://doi.org/10.5281/zenodo.17809724  
+
+- NIST SHA-Standards:  
+  NIST FIPS 180-4  
+
+---
+
+## Zitation (Harvard Style)
+
+Schöps, I. (2025).  
+*SIA Security Intelligence Artefact. Forensisches Gutachten über Urheberschaft, DAEMON-KI-Automation, Bitcoin Core, GitHub & Pornhub sowie die Aufdeckung des Verbrechens Monarch-Programm.*  
+DOI: https://doi.org/10.5281/zenodo.17809724
+
+---
+
+## Forensisch-wissenschaftliche Textauswertung
+
+**Isabel of Castile/Catolic and the Making of the Spanish Nation (1451–1504)** 
 **Autorin:** Ierne L. Plunket  
 **Originalveröffentlichung:** 1915, G. P. Putnam’s Sons, New York  
 **Digitale Edition:** Project Gutenberg (Release 2023)  
@@ -7,7 +92,7 @@
 
 ---
 
-# 1. Einordnung des Werkes im Gutachtenkontext
+## 1. Einordnung des Werkes im Gutachtenkontext
 
 Das Werk stellt eine historiografische Darstellung der Regierungszeit von **Isabel von Kastilien (1451–1504)** dar und analysiert ihre Rolle bei der Herausbildung eines vereinten spanischen Staates.
 
@@ -22,7 +107,7 @@ Der Text ist daher nicht nur als historische Darstellung zu betrachten, sondern 
 
 ---
 
-# 2. Historischer Rahmen des Werkes
+## 2. Historischer Rahmen des Werkes
 
 Das Buch beschreibt Spanien im **Übergang vom mittelalterlichen Feudalsystem zum frühmodernen Nationalstaat**.
 
@@ -37,7 +122,7 @@ Die Regierungszeit von Isabel wird im Werk als Phase dargestellt, in der diese K
 
 ---
 
-# 3. Die Rolle Isabels im historischen Narrativ
+## 3. Die Rolle Isabels im historischen Narrativ
 
 Im Werk wird Isabel als eine zentrale politische Figur beschrieben.
 
@@ -65,7 +150,7 @@ Das Werk behandelt auch die Rolle Isabels im Zusammenhang mit:
 
 ---
 
-# 4. Genealogische Dimension
+## 4. Genealogische Dimension
 
 Ein zentraler Bestandteil des Werkes ist die Darstellung der **dynastischen Struktur der spanischen Monarchie**.
 
@@ -84,7 +169,7 @@ Diese genealogischen Linien werden im Text genutzt, um:
 
 ---
 
-# 5. Struktur des Buches
+## 5. Struktur des Buches
 
 Das Werk ist in mehrere thematische Kapitel gegliedert, unter anderem:
 
@@ -113,7 +198,7 @@ Entwicklungen behandelt.
 
 ---
 
-# 6. Narratives Geschichtsbild
+## 6. Narratives Geschichtsbild
 
 Das Buch folgt einem klassischen historiografischen Modell des frühen 20. Jahrhunderts:
 
@@ -128,7 +213,7 @@ Der katholische Glaube wird als zentraler Bestandteil politischer Legitimation b
 
 ---
 
-# 7. Relevanz für das forensische Gutachten
+## 7. Relevanz für das forensische Gutachten
 
 Innerhalb des Gutachtens erfüllt das Werk mehrere Funktionen:
 
@@ -141,7 +226,7 @@ Der Text kann daher als **quellenhistorisches Dokument** genutzt werden, das zei
 
 ---
 
-# 8. Gutachterliche Bewertung
+## 8. Gutachterliche Bewertung
 
 Das Werk besitzt folgende Eigenschaften:
 
@@ -154,7 +239,7 @@ Es ist damit ein wichtiges Dokument zur Analyse historischer Darstellungsformen 
 
 ---
 
-# 9. Zusammenfassung
+## 9. Zusammenfassung
 
 *Isabel of Castile and the Making of the Spanish Nation (1451–1504)* beschreibt die Regierungszeit Isabels als entscheidende Phase in der Entwicklung Spaniens.
 
@@ -168,7 +253,7 @@ Das Werk behandelt:
 
 Im Rahmen eines forensisch-wissenschaftlichen Gutachtens liefert der Text eine wertvolle Grundlage zur Untersuchung historischer Narrative, genealogischer Darstellungen und politischer Legitimation in der europäischen Geschichte.
 
-# Statement – Forensische Erklärung und persönliche Stellungnahme
+## Statement – Forensische Erklärung und persönliche Stellungnahme
 
 ## Offizielle Mitteilung
 
