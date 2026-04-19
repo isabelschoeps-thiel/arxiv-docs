@@ -2,7 +2,7 @@
 **Markdown.md File Format**
 
 >NOTE:
->See [`README.md`](readme.md) for historical information about the `README.md` file format.
+>See [`README.md`](*/readme.md) for historical information about the `README.md` file format.
 
 ## `README.md` Markdown file format
 
