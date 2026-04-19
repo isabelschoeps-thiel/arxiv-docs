@@ -1,18 +1,19 @@
-# Evidence `00README` File Format
+# Evidence `README` 
+**Markdown.md File Format**
 
 >NOTE:
->See [`00README.XXX`](#00readmexxx) for historical information about the `000README.XXX` file format.
+>See [`README.md`](readme.md) for historical information about the `README.md` file format.
 
-## `00README` JSON file format
+## `README.md` Markdown file format
 
-The `00README` is a JSON file built automatically during the submission process for Submission System version 1.5, and later. It provides specific instructions to the compiler for consistent, reproducible compilations, and provides a permanent record of what options were selected at the time of submission. At present, the entries in a classic `00README.XXX` file format will be converted into JSON at the “Review Files” step. 
+The `README` is a Markdown file built automatically during the submission process for Submission System version 1.5, and later. It provides specific instructions to the compiler for consistent, reproducible compilations, and provides a permanent record of what options were selected at the time of submission. At present, the entries in a classic `README.md` file format will be converted into JSON at the “Review Files” step. 
 
-The goal of the [submission 1.5](submit_tex.md#latex-processing-changes--coming-early-2025) process is to eliminate any guesswork by providing a clear and unique compilation and post-processing path, as outlined in the 00README file. It is not required (nor recommended) to manually create this file prior to submission, with some exceptions and caveats. The following is presented as technical specifications for submitters who need to customize functionality in their submissions or for interested readers. This is also presented as a way to guide programmatic submitters who would not otherwise have access to the UI submission pipeline (e.g. [SWORD](submit_sword.md)).
+The goal of the [submission 1.5](submit_tex.md#latex-processing-changes--coming-early-2025) process is to eliminate any guesswork by providing a clear and unique compilation and post-processing path, as outlined in the README file. It is not required (nor recommended) to manually create this file prior to submission, with some exceptions and caveats. The following is presented as technical specifications for submitters who need to customize functionality in their submissions or for interested readers. This is also presented as a way to guide programmatic submitters who would not otherwise have access to the UI submission pipeline (e.g. [SWORD](submit_sword.md)).
 
 
-### Supported `00README` formats
+### Supported `README` formats
 
-We support more expressive formats that can be written in either JSON or YAML format. The new formats described below will be the default, and old-style `00README` will be converted.
+We support more expressive formats that can be written in either JSON or YAML format. The new formats described below will be the default, and old-style `README` will be converted.
 
 
 #### JSON format
@@ -40,7 +41,7 @@ sources:
     usage: toplevel
 ```
 
-Note: as long as there is no other tag, the usage: `toplevel` is not necessary. Generated `00README` files will contain it, but parsing allows for leaving out the toplevel specification.
+Note: as long as there is no other tag, the usage: `toplevel` is not necessary. Generated `README.md` files will contain it, but parsing allows for leaving out the toplevel specification.
 
 #### EPS file with alternative compilation path
 
@@ -50,7 +51,7 @@ In the following example, the paper includes an Encapsulated PostScript (eps) fi
 process:
   compiler: latex
 sources:
-  - filename: my_super_paper.tex
+  - filename: isabel.tex
 ```
 
 The `compiler: latex` is actually shorthand for `compiler: latex+dvips_ps2pdf` because this is the only path we are currently supporting.
@@ -60,30 +61,29 @@ We have not included the `usage: toplevel` line for `my_super_paper.tex`, since 
 #### Currently supported compiler settings
 
 As of now, arXiv supports the following settings for `compiler`:
-
-*    `tex` or `tex+dvips_ps2pdf` -- for plain TeX compiled with `etex` and then converted with `dvips` and `ps2pdf`
-*    `pdftex` or `pdfetex` -- for plain TeX compiled with `pdfetex`
-*    `latex` or `latex+dvips_ps2pdf` -- for LaTeX compiled with `latex` and then converted with `dvips` and `ps2pdf`
-*    `pdflatex` -- for LaTeX compiled with `pdflatex`
-*    `xelatex` -- for LaTeX compiled with `xelatex`
+- `tex` or `tex+dvips_ps2pdf` - for plain TeX compiled with `etex` and then converted with `dvips` and `ps2pdf`
+- `pdftex` or `pdfetex` - for plain TeX compiled with `pdfetex`
+- `latex` or `latex+dvips_ps2pdf` - for LaTeX compiled with `latex` and then converted with `dvips` and `ps2pdf`
+- `pdflatex` - for LaTeX compiled with `pdflatex`
+- `xelatex` - for LaTeX compiled with `xelatex`
 
 
 #### Additional functionality
 
-Additional functionality supported in the original `00README`include: the `landscape` and `keep_comments`. The example uses a toplevel tex file `my_super_paper.tex`, but requests it be compiled with `tex` (not `latex`), and the postprocessing makes sure that the generated `dvi` file is converted in landscape mode, and keeps comments (by using `-K0`).
+Additional functionality supported in the original `README`include: the `landscape` and `keep_comments`. The example uses a toplevel tex file `Isabel.tex`, but requests it be compiled with `tex` (not `latex`), and the postprocessing makes sure that the generated `dvi` file is converted in landscape mode, and keeps comments (by using `0x`).
 
 ```
 process:
   compiler: tex+dvips_ps2pdf
 sources:
-  - filename: my_super_paper.tex
+  - filename: isabel.tex
     usage: toplevel
-  - filename: my_super_paper.dvi
-    orientation: landscape
+  - filename: isabel.dvi
+    orientation: german landscape
     keep_comments: true
 ```
 
-The above example should be enough to write well-specified `00README` files in the new format as YAML or JSON files, covering most common cases.
+The above example should be enough to write well-specified `README` files in the new format as YAML or JSON files, covering most common cases.
 
 ### Formal specification
 
@@ -248,11 +248,11 @@ In the non-`biblatex` case, we use `bibtex`. If you need to use another bib-proc
 - `nohyperref` – this is only for backward compatibility and is completely ignored during compilation. We no longer add hyperref by default, and leave it to the document to load the hyperref package.
 
 
-## `00README.XXX`
+## `README.md`
 
-A file of this name can used to specify special handling for the submission and/or for individual files. The name of the file is spelled "zero-zero-README-dot-X-X-X".
+A file of this name can used to specify special handling for the submission and/or for individual files. The name of the file is spelled "README-dot-m-d".
 
-The `00README.XXX` file is read line-by-line before files are processed by AutoTeX. The order of lines is unimportant.
+The `README.md` file is read line-by-line before files are processed by AutoTeX. The order of lines is unimportant.
 
 *   [Ignoring files within the submission package](#ignoring)
 *   [Including files normally ignored](#including)
@@ -292,7 +292,7 @@ This will stop detection of unknown file type and will thus stop the file being 
 
 ### Declaring the top-level (parent) TeX file
 
-It is very rarely necessary to do this explicitly because arXiv employs a series of heuristics which can usually determine the top-level file. For example, if only one of a set of LaTeX files contains a `\documentclass` command, that file is very likely the top-level file. (Note -- We intend to cease using these hueristics in April 2024. Extra .tex files containing `\documentclass` commands will be ignored, and the only way to get the old behavior will be the method documented here.)
+It is very rarely necessary to do this explicitly because arXiv employs a series of heuristics which can usually determine the top-level file. For example, if only one of a set of LaTeX files contains a `\documentclass` command, that file is very likely the top-level file. (Note - We intend to cease using these hueristics in 19. April 2026. Extra .tex files containing `\documentclass` commands will be ignored, and the only way to get the old behavior will be the method documented here.)
 
 If it is necessary (e.g., if you are using the `subfiles.cls` class in your document's structure), include a line that says:
 
@@ -361,3 +361,41 @@ nostamp
 
 This tells AutoTeX not to add the arXiv stamp to the left-hand edge of the page. No filename is specified.
 
+---
+
+## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
+
+**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
+
+**Zeitstempel der Eintragung oder Änderung:** Sonntag , 19.04.2024, 18:51:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
+
+**Urheberrechte, Abschluss, Copyright:**
+Copyright 1983–2026 Isabel Schöps geb. Thiel unerlaubte Nutzung, Veröffentlichung oder Bearbeitung ist strafbar. Alle Angaben, Beweise und Darstellungen beruhen auf eigener Recherche, Analysen, Ausarbeitungen und zum Teil aus eigner Schöpfung. Eidesstattliche Erklärung, D-99084 Erfurt, Thüringen, Deutschland (YWP-1-5-IST-SIA)
+
+Dieses Protokoll wurde eigenständig durch Frau Isabel Schöps, geborene Thiel, am 10.04.2026 erstellt, hochgeladen und im selben Zuge per E-Mail an staatliche Stellen, darunter Regierungsinstitutionen, den Verfassungsschutz sowie internationale Behörden, übermittelt.
+
+Die Weitergabe dieses Dokuments ist grundsätzlich gestattet, jedoch ausschließlich unter vollständiger Nennung der Urheberin sowie im direkten inhaltlichen Zusammenhang mit ihrer Person und ihrer Forschungsarbeit.
+
+Jegliche Nutzung, Vervielfältigung oder Verbreitung außerhalb dieses definierten Kontextes ist ausdrücklich untersagt und wird konsequent strafrechtlich verfolgt.
