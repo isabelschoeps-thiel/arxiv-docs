@@ -70,11 +70,11 @@ Nutzung, Veränderung oder Weitergabe ohne schriftliche Genehmigung führt zur M
 
 ## Dokumentation & Verweise
 
-- [README.md](./README.md)
-- [NOTE.md](./NOTE.md)
-- [SECURITY.md](./SECURITY.md)
-- [ANALYSE.md](./ANALYSE.md)
-- [LICENSE.md](./LICENSE.md)
+- [README.md](dev/README.md)
+- [NOTE.md](/NOTE.md)
+- [SECURITY.md](/SECURITY.md)
+- [ANALYSE.md](/ANALYSE.md)
+- [LICENSE.md](/LICENSE.md)
 
 ---
 
