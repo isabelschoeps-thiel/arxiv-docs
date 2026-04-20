@@ -1,5 +1,5 @@
-GNU C Library Security Advisory Format
-======================================
+Library Security Advisory Format
+================================
 
 Security advisories in this directory follow a simple git commit log
 format, with a heading and free-format description augmented with tags
